@@ -1,0 +1,26 @@
+Alert Number:US-2020-5POS-AA
+Date:10-21-2020
+Entity Type:BRKMTR
+Fraud Reported:1
+Testing Reported:1
+Exposure Window Start:09-05-2019
+Exposure Window End:10-06-2019
+PAN:T
+Track 1 Data:F
+Track 2 Data:T
+CVV1:F
+CVV2:T
+PIN:F
+Expiration Date:T
+Cardholder Name:F
+SSN:T
+Password:T
+Discretionary Data:F
+Cardholder Address:F
+Cardholder Email:T
+Other:None
+Email Body1:Positive test, short text body.vPositive test, short text body.Positive test, short text body.&*()!~""/\:
+Email Body2:
+Number of Compromised Accounts:1
+4866891111111111        1906
+4866891111111118        1906
